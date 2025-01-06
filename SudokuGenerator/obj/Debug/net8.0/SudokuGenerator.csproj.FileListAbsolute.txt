@@ -1,0 +1,14 @@
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\bin\Debug\net8.0\SudokuGenerator.exe
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\bin\Debug\net8.0\SudokuGenerator.deps.json
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\bin\Debug\net8.0\SudokuGenerator.runtimeconfig.json
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\bin\Debug\net8.0\SudokuGenerator.dll
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\bin\Debug\net8.0\SudokuGenerator.pdb
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.AssemblyInfoInputs.cache
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.AssemblyInfo.cs
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.dll
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\refint\SudokuGenerator.dll
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.pdb
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\SudokuGenerator.genruntimeconfig.cache
+C:\Users\Vutomi\Desktop\SudokuGenerator\SudokuGenerator\SudokuGenerator\obj\Debug\net8.0\ref\SudokuGenerator.dll
